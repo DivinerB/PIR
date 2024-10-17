@@ -60,27 +60,3 @@ python retrieval.py \
 ## 🌎 Datasets
 
 All experiments are based on [RSITMD](https://github.com/xiaoyuan1996/AMFMN/tree/master/RSITMD), [RSICD](https://github.com/201528014227051/RSICD_optimal) datasets and pre-training dataset [RS5M](https://github.com/om-ai-lab/RS5M).
-
-## 📝 Citation
-
-If you find this code useful for your work or use it in your project, please cite our paper as:
-
-```
-@inproceedings{pan2023prior,
-  title={A Prior Instruction Representation Framework for Remote Sensing Image-text Retrieval},
-  author={Pan, Jiancheng and Ma, Qing and Bai, Cong},
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={611--620},
-  year={2023}
-}
-
-@misc{pan2024pir,
-      title={PIR: Remote Sensing Image-Text Retrieval with Prior Instruction Representation Learning}, 
-      author={Jiancheng Pan and Muyuan Ma and Qing Ma and Cong Bai and Shengyong Chen},
-      year={2024},
-      eprint={2405.10160},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-  
-```
